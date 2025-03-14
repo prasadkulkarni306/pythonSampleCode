@@ -37,3 +37,6 @@ print("exported successfully")
 
 print("query exexcuted successfully")
 
+cursor.close()
+ 
+connection.close()
